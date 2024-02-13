@@ -8,6 +8,7 @@ import HeroSection from "../components/HeroSection/HeroSection"
 import WhySection from "../components/WhySection/WhySection"
 import ProjectSection from "../components/ProjectSection/ProjectSection"
 import TestimonialSection from "../components/TestimonialSection/TestimonialSection"
+import TimeLine from "../components/TimeLineSection/TimeLine"
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext()
@@ -31,7 +32,7 @@ function HomepageHeader() {
   )
 }
 
-export default function Home() {
+const Home = () => {
   const { siteConfig } = useDocusaurusContext()
   return (
     <Layout
@@ -39,8 +40,11 @@ export default function Home() {
       description="The Center for Electronics Design and Technology">
       <HeroSection />
       <WhySection />
+      <TimeLine />
       <ProjectSection />
       <TestimonialSection />
     </Layout>
   )
 }
+
+export default Home;
