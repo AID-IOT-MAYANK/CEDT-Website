@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcedt_website=self.webpackChunkcedt_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Arduino - A Gateway to DIY Innovation","permalink":"/CEDT-Website/blog/arduino-blog"},{"title":"Progressive Web Apps","permalink":"/CEDT-Website/blog/pwa-blog"}]}')}}]);

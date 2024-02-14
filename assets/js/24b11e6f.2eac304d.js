@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcedt_website=self.webpackChunkcedt_website||[]).push([[870],{4441:e=>{e.exports=JSON.parse('{"permalink":"/CEDT-Website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

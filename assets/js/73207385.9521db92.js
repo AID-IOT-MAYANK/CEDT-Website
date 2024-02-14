@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcedt_website=self.webpackChunkcedt_website||[]).push([[154],{5325:e=>{e.exports=JSON.parse('[{"label":"arduino","permalink":"/CEDT-Website/blog/tags/arduino","count":1},{"label":"technology","permalink":"/CEDT-Website/blog/tags/technology","count":2},{"label":"Web","permalink":"/CEDT-Website/blog/tags/web","count":1}]')}}]);

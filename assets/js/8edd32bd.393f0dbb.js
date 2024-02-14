@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcedt_website=self.webpackChunkcedt_website||[]).push([[658],{3210:e=>{e.exports=JSON.parse('{"label":"technology","permalink":"/CEDT-Website/blog/tags/technology","allTagsPath":"/CEDT-Website/blog/tags","count":2}')}}]);
