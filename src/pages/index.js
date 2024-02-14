@@ -7,7 +7,8 @@ import styles from "./index.module.css"
 import HeroSection from "../components/HeroSection/HeroSection"
 import WhySection from "../components/WhySection/WhySection"
 import ProjectSection from "../components/ProjectSection/ProjectSection"
-import TestimonialSection from "../components/TestimonialSection/TestimonialSection"
+import AluminiSection from "../components/AluminiSection/AluminiSection"
+// import TestimonialSection from "../components/TestimonialSection/TestimonialSection"
 import TimeLine from "../components/TimeLineSection/TimeLine"
 
 function HomepageHeader() {
@@ -42,7 +43,8 @@ const Home = () => {
       <WhySection />
       <TimeLine />
       <ProjectSection />
-      <TestimonialSection />
+      <AluminiSection />
+      {/* <TestimonialSection /> */}
     </Layout>
   )
 }
